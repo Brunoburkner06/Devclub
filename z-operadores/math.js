@@ -9,6 +9,19 @@ MATH -MATEMÁTICA
 
   -RANDOM() / NÚMERO ALEATÓRIO ENTRE 0 E 1
 
+  OPERADORES ARITMÉTICOS
+  + ->ADIÇÃO
+  - ->MENOS
+  / ->DIVISÃO
+  * ->MULTIPLICAÇÃO
+  % ->RESTO 
+  ++ ->INCREMENTO
+  -- ->DECREMENTO
+  ** ->EXPONENCIAL
+
+
+
+  
 */
 
 const result = Math.pow(2,3)
